@@ -1,4 +1,4 @@
-# ![Shubham B](https://your-logo-url.com/logo.png) 
+# ![Shubham B]
 
 ## Shubham B - Software Developer
 
@@ -72,14 +72,6 @@ Thanks,
 *Remote*
 
 ---
-
-![GitHub followers](https://img.shields.io/github/followers/shubhamb?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/shubhamb?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/shubhamb?style=social)
-
-### 📈 My GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamb&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 🛠️ Tools & Technologies
 
