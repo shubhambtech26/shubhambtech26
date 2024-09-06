@@ -1,6 +1,6 @@
 # ![Shubham Kumar]
 
-## Shubham B - Software Developer
+## Shubham Kumar - Software Developer
 
 Welcome to my GitHub profile! I’m an experienced Back-end Developer with over 5 years of expertise in Python programming. My primary focus is on developing efficient and scalable back-end systems using Python frameworks like Django and Flask. I am passionate about tackling new and challenging projects and committed to bringing innovative ideas to life.
 
@@ -67,7 +67,7 @@ I am an experienced back-end developer with a deep understanding of Python frame
 I am currently seeking full-time remote opportunities. If you have any opportunities or would like to collaborate, please feel free to reach out.
 
 Thanks,  
-**Shubham B**  
+**Shubham Kumar**  
 *Software Developer | Python/Django, Flask, JavaScript*  
 *Remote*
 
