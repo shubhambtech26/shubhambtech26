@@ -1,4 +1,4 @@
-# ![Shubham B]
+# ![Shubham Kumar]
 
 ## Shubham B - Software Developer
 
