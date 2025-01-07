@@ -21,7 +21,7 @@ I am an experienced back-end developer with a deep understanding of Python frame
 ## 🌟 Professional Experience
 
 ### Back-end Developer | Python/Django/JavaScript | Remote
-*May 2021 – Present*
+*May 2022 – Present*
 
 - Design and implement Python code using Django and Flask frameworks.
 - Identify and fix bottlenecks and software bugs.
@@ -31,7 +31,7 @@ I am an experienced back-end developer with a deep understanding of Python frame
 - Coordinate with internal teams to understand requirements and provide technical solutions.
 
 ### Software Developer | BestPeers Infosystem Pvt Ltd
-*May 2018 – April 2021*
+*May 2019 – April 2022*
 
 - Developed and maintained back-end systems using Python, Django, and JavaScript.
 - Analyzed requirements, designed new functionality, and ensured code efficiency.
