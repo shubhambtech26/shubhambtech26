@@ -47,13 +47,8 @@ I am an experienced back-end developer with a deep understanding of Python frame
 
 ## 🎓 Education Background
 
-- **Sanghvi Institute of Management & Science**, Rau, Indore  
   Master's Degree (Completed with Job)  
   Completed in 2020
-
-- **ILVA College**, Indore  
-  Bachelor's Degree  
-  Completed in 2015-2018
 
 ## 🛠️ Additional Skills
 
